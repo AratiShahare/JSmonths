@@ -44,7 +44,10 @@ else if(month==11)
 {
      alert('11 november')
 }
-else(month==12)
+else if(month==12)
 {
      alert('12 december')
+}
+else{
+     alert('enter valid number')
 }
